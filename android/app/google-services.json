@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716076424963",
+    "project_id": "labtest-21da2",
+    "storage_bucket": "labtest-21da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716076424963:android:36bb043b053011b9ee9336",
+        "android_client_info": {
+          "package_name": "com.example.labtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716076424963-ssvkc2ao6hq4m64et4bl2192dkv48scu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY6ZRGLF7_78ZMjWvnG_nAOuVd7HLUJw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716076424963-ssvkc2ao6hq4m64et4bl2192dkv48scu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
